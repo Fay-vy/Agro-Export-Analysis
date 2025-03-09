@@ -8,7 +8,7 @@ Company Performance
 - Total Profit: ₦6.13 million
 - Average Unit Price: ₦30.01K
 Product-wise Performance
-- Top 5 Products by Unit Sold: C (76K), Coco (76K), Cashew (71K), Rubber (67K), and Lantaine (65K)
+- Top 5 Products by Unit Sold: seasame (76K), Cocoa (76K), Cashew (71K), Rubber (67K), and Plantain (65K)
 - Most Profitable Product: Cashew
 Trending Insights
 - Yearly Trend: 2021 had the highest export value and unit sold, while 2022 had a decline.
