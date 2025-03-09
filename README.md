@@ -1,30 +1,35 @@
-# Agro-Export-Analysis
+# Agro-Export-Dashboard
 # Overview
-This project analyzes the performance of various agroexport products, providing insights into company performance, product-wise performance, and trending patterns.
-# Key Insights
-# Company Performance
-- Total Unit Sold: 537K (across all products)
-- Total Export Value: ₦16.32 billion
-- Total Profit: ₦6.13 million
-- Average Unit Price: ₦30.01K
-# Product-wise Performance
-- Top 5 Products by Unit Sold: seasame (76K), Cocoa (76K), Cashew (71K), Rubber (67K), and Plantain (65K)
-- Most Profitable Product: Cashew
-# Trending Insights
-- Yearly Trend: 2021 had the highest export value and unit sold, while 2022 had a decline.
-- Quarterly Trend: Q2 had a moderate increase, while Q4 (December) had a significant surge in export value and unit sold.
-Correlation Insights
-- Unit Sold vs. Destination Port: Cashew and Lagos have a strong correlation.
-- Profit per Unit vs. Product: Cashew has the highest profit per unit.
-# Valuable Insights
-1. Cashew is a star product: With high profitability and strong correlation with Lagos, focus on increasing cashew production and exports.
-2. Lagos is a key destination: Optimize logistics and transportation to Lagos to reduce costs and increase efficiency.
-3. 2021 was a peak year: Analyze the factors that contributed to the success in 2021 and replicate them in future years.
-4. Q4 is a critical quarter: Plan strategically for the fourth quarter, especially December, to capitalize on the surge in export value and unit sold.
-# Dashboard Features
-- Interactive visualizations using Power BI
-- Filtering by category, product, and more
-- Drill-down capabilities for detailed analysis
+This project analyzes the performance of various agricultural export products, providing stakeholders with actionable insights on export performance across products, destinations, companies, and logistics.
+
+## Dashboard Features
+- **Overview Metrics**: Total units sold (537K), export value ($16.32bn), profit ($6.13M), average unit price ($30.01K)
+- **Product Analysis**: Breakdown of exports by product category (Cashew, Cassava, Cocoa, Ginger, Palm Oil, Plantain, Rubber, Sesame)
+- **Geographic Insights**: Export value by destination country with Italy, Denmark, and France as top markets
+- **Company Performance**: Contribution percentage of top Nigerian agricultural exporters 
+- **Port Utilization**: Analysis of export volume through Lagos, Warri, Port Harcourt, and Calabar ports
+- **Time Series Analysis**: Tracking export trends by year (2020-2023) and quarterly performance
+- **Profitability Metrics**: Comparison of product profitability and pricing
+
+## Technical Implementation
+- Interactive filters for product, company, and export country selection
+- Multiple visualization types: bar charts, line graphs, pie charts, heatmaps
+- Time series analysis of export trends
+- Comparative analysis of units sold vs. export value
+
+## Value Proposition
+This dashboard helps agricultural exporters, policy makers, and market analysts:
+- Identify the most profitable agricultural products
+- Understand export market distribution
+- Track performance trends over time
+- Optimize port selection and transportation modes
+- Benchmark company performance in the sector
+
+## Future Enhancements
+- Predictive analytics for forecasting export trends
+- Additional logistics metrics and transportation optimization
+- Cost analysis by export route
+- Market share analysis by destination country
 # Dashboard
 [Agro Export] ![Week 8 Project pg 1](https://github.com/user-attachments/assets/a27974a3-e928-48c6-95a3-054f83e9f482)
 ![Week 8 Project pg 2](https://github.com/user-attachments/assets/9788802e-5baf-406d-b114-0acba57417cf)
